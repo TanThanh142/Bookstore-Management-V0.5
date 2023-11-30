@@ -1,1 +1,0 @@
-# Bookstore-Management-V0.5
